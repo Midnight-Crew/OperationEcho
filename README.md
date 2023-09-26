@@ -1,6 +1,7 @@
 # OperationEcho
  gam
 Art by Peter Weighill
+```
                         . - ~ ~ ~ - .
       ..     _      .-~               ~-.
      //|     \ `..~                      `.
@@ -53,3 +54,5 @@ Stegosaurus by Michael John Wagoner
            ~-.__|      /_ - ~ ^|      /- _      `..-'   f: f:
                 |     /        |     /     ~-.     `-. _||_||_
                 |_____|        |_____|         ~ - . _ _ _ _ _>
+
+```
