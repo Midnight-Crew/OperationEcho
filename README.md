@@ -1,7 +1,7 @@
 # OperationEcho
  gam
-Art by Peter Weighill
 ```
+Art by Peter Weighill
                         . - ~ ~ ~ - .
       ..     _      .-~               ~-.
      //|     \ `..~                      `.
