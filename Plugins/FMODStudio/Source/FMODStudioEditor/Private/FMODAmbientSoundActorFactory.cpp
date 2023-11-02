@@ -4,7 +4,6 @@
 #include "FMODStudioEditorPrivatePCH.h"
 #include "FMODAmbientSound.h"
 #include "FMODEvent.h"
-//AS Fix
 #include "AssetRegistry/AssetData.h"
 #include "Editor/EditorEngine.h"
 
